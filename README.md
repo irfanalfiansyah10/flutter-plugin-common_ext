@@ -1,6 +1,6 @@
 # mcnmr_common_ext
 
-A new Flutter package project.
+My own common function, just want to make coding more fun and easier
 
 ## Getting Started
 
